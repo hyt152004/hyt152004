@@ -1,5 +1,7 @@
 ### Hi there 👋 my name is David!
 
+From personal projects to hackathon projects, I've worked really hard for all of my projects and hope you can spend some time playing around with them or watching the demo videos! 
+
 <!--
 **hyt152004/hyt152004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
